@@ -1,0 +1,48 @@
+Operators :
+-----------------------
+- To perform some operation.
+
+Types:
+------------------------
+1. Arithmetic Operators 
++ 
+-
+*
+/
+//
+2. Comparison Operators (True, False) ----> Boolean DataType
+>
+<
+>=
+<=
+!=
+==
+3. Logical Operators (True, False) ----> Boolean DataType
+and [T and T ----> T]
+or  [T or F ------> T]
+not
+4. Bitwise Operators
+>>
+<<
+^ XOR
+~ Complement
+| OR  
+5. Membership Operators (True, False) ----> Boolean DataType
+in
+not in
+6. Identity Operators (True, False) ----> Boolean DataType
+is 
+is not
+7. Assignment Operator
+=
+
+
+
+
+
+
+
+
+
+
+
